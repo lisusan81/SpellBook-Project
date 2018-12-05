@@ -1,0 +1,25 @@
+body {
+    text-align: center;  
+    background-color: blue;
+}
+.six {
+    width: 500px;
+    border: 10px solid black;
+}
+.formula {
+     width: 400px;   
+     border: 10px solid black;
+}
+.circle {
+    width: 300px;  
+    border: 10px solid black;
+}
+.nopie {
+    border: 10px solid black;   
+}
+.one {
+ text-align: center;   
+}
+.big {
+   display:flex;
+}
